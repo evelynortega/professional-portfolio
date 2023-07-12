@@ -116,6 +116,22 @@ h2 {
     border: #fefcfc solid 10px;
 }
 
+.website-link {
+     margin:2em 0;
+}
+
+.website-link a {
+     background:#f0f0f0;
+     border:1px solid #ccc;
+     -moz-border-radius:3px;
+     -webkit-border-radius:3px;
+     -khtml-border-radius:3px;
+     border-radius:3px;
+     color:#333;
+     padding:.3em .5em;
+     text-decoration:none;
+}
+
 h4 {
     text-align: center;
     color: #4c4a52;
