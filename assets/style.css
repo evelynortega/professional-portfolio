@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #fefcfc;
+  background-color: #fdfdfd;
 }
 
 header {
@@ -13,7 +13,7 @@ header {
   padding: 2%;
   justify-content: space-between;
   align-items: center;
-  background-color: #f1d4d4;
+  background-color: #9fa79f;
 }
 
 .profile-pic img {
@@ -31,14 +31,14 @@ header {
   border-radius: 10%;
   outline-style: double;
   outline-width: 10px;
-  outline-color: #feecec;
+  outline-color: #efecec;
 }
 
 header h1 {
   font-family: "Barlow", "Arial Narrow", Arial, sans-serif;
   font-size: 55px;
-  color: #313035;
-  background-color: #feecec;
+  color: #4f4e55;
+  background-color: #f6f2ec;
   padding-right: 10%;
   padding-left: 10%;
   padding-top: 2%;
@@ -49,7 +49,7 @@ header h1 {
   margin: 3%;
   outline-style: double;
   outline-width: 10px;
-  outline-color: #feecec;
+  outline-color: #efecec;
 }
 
 header nav {
@@ -57,7 +57,7 @@ header nav {
   /* margin-right: 1%; */
   font-family: "Barlow", "Arial Narrow", Arial, sans-serif;
   font-size: 27px;
-  background-color: #feecec;
+  background-color: #f6f2ec;
   padding-left: 5%;
   padding-right: 4%;
   padding-top: 4%;
@@ -66,7 +66,7 @@ header nav {
   margin: 3%;
   outline-style: double;
   outline-width: 10px;
-  outline-color: #feecec;
+  outline-color: #efecec;
 }
 
 header nav ul {
@@ -84,7 +84,7 @@ header nav ul li {
 }
 
 header a {
-  color: #46454c;
+  color: #6c6b74;
 }
 
 h3 {
@@ -92,7 +92,7 @@ h3 {
   margin-top: 35%;
   font-size: 40px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: #313035;
+  color: #f6efe2;
 }
 
 h2 {
@@ -116,26 +116,26 @@ h2 {
 }
 
 .sectionAside {
-  background-color: #cdd9c5;
+  background-color: #b6beb6;
   width: 30%;
-  border-radius: 30px;
+  /* border-radius: 30px; */
   margin-right: 3%;
   margin-left: 3%;
   outline-style: double;
   outline-width: 10px;
-  outline-color: #feecec;
+  outline-color: #9fa79f;
 }
 
 .sectionArticle {
-  background-color: #f0f8ec;
+  background-color: #9fa79f;
   height: 100%;
   width: 70%;
-  border-radius: 30px;
+  /* border-radius: 30px; */
   margin-right: 20px;
   margin-left: 20px;
   outline-style: double;
   outline-width: 10px;
-  outline-color: #feecec;
+  outline-color: #9fa79f;
   text-align: center;
 }
 
@@ -155,13 +155,13 @@ h2 {
 }
 
 .website-link a {
-  background: #f0f0f0;
-  border: 1px solid #ccc;
+  background: #f6f2ec;
+  border: 1px solid #55555b;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
   -khtml-border-radius: 3px;
   border-radius: 3px;
-  color: #333;
+  color: #4c4a52;
   padding: 0.3em 0.5em;
   text-decoration: none;
 }
@@ -171,21 +171,21 @@ h4 {
   color: #4c4a52;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   margin-bottom: 7px;
-  background-color: #fefcfc;
+  background-color: #c3cbc3;
   padding: 10px;
 }
 
 p {
-  background-color: #feecec;
-  border-radius: 15px;
+  background-color: #f8f3eb;
+  /* border-radius: 15px; */
   margin: 20px;
   padding: 20px;
   height: 30%;
 }
 
 .p2 {
-  background-color: #feecec;
-  border-radius: 15px;
+  background-color: #f8f3eb;
+  /* border-radius: 15px; */
   margin: 20px;
   padding: 20px;
   height: 80%;
